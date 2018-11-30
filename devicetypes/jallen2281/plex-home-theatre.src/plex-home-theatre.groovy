@@ -26,7 +26,7 @@
  */
  
 metadata {
-	definition (name: "Plex-Home-Theatre", namespace: "jallen2281", author: "jallen2281") {
+	definition (name: "plex-home-theatre", namespace: "jallen2281", author: "jallen2281") {
     	capability "Switch"
 		capability "musicPlayer"
         
