@@ -25,9 +25,9 @@
  */
 
 definition(
-    name: "Plex Manager",
-    namespace: "ibeech",
-    author: "ibeech",
+    name: "Plex-Manager",
+    namespace: "jallen2281",
+    author: "jallen2281",
     description: "Add and Manage Plex Home Theatre endpoints",
     category: "Safety & Security",
     iconUrl: "http://download.easyicon.net/png/1126483/64/",
