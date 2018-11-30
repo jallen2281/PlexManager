@@ -25,7 +25,7 @@
  */
 
 definition(
-    name: "Plex-Manager",
+    name: "plex-manager",
     namespace: "jallen2281",
     author: "jallen2281",
     description: "Add and Manage Plex Home Theatre endpoints",
