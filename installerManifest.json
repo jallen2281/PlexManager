@@ -1,0 +1,27 @@
+{
+    "namespace": "jallen2281",
+    "repoOwner": "jallen2281",
+    "repoName": "PlexManager",
+    "repoBranch": "master",
+    "name": "PlexManager",
+    "author": "Jared A",
+    "description": "Device Handler for Plex.",
+    "releaseType": "production",
+    "keywords": [
+        "plex"
+    ],
+       "smartApps": {
+        "parent": {
+            "name": "Plex Manager",
+            "published": true,
+            "oAuth": false,
+            "appUrl": "PlexManager.groovy"
+        },
+    "deviceHandlers": [{
+            "name": "PlexManager",
+            "published": true,
+            "appUrl": "PlexHomeTheatre.groovy",
+            "optional": false
+        },
+    ]
+}
